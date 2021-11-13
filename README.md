@@ -1,11 +1,11 @@
 <p align="left"><samp><strong>It's a real treat to see you here!</strong></samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
 
 <div align="left">
-  <samp>Hi, i'm Dario Cascone, a passionate full stack web developer. For the past  years, I've been developing applications for the web using mostly Vue.js, but also other frameworks like Aurelia.js, Backbone.js for the front-end side and node.js, SpringBoot for the back-end side. 
-I love what I do as every day there is something new and exciting to learn. i take great care in the experience, architecture, and code quality of the things I build.
+  <samp>Hi, I'm Dario Cascone, a passionate full stack web developer. For the past  years I've been developing applications for the web using mostly Vue.js, but also other frameworks like Aurelia.js, Backbone.js for the front-end side and node.js, SpringBoot for the back-end side. 
+I love what I do, every day there is something new and exciting to learn. I take care about experience, architecture, and code quality of the things I build.
 Following my passion for technology was one of the best decisions I ever made.
 Besides programming I love spending time with friends and family,
-I love to travel, know, eat and drink.
+I love to travel, learn new technologies, eat good food and dirnk red wine.
   </samp>
   <br> <br>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
