@@ -1,5 +1,8 @@
-<p align="left"><samp><strong>It's a real treat to see you here!</strong></samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
-
+<div align="left"><samp><strong>It's a real treat to see you here!</strong></samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
+<br>
+<a href="https://www.linkedin.com/in/dc3/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 <div align="left">
   <samp>Hi, I'm Dario Cascone, a passionate full stack web developer. For the past  years I've been developing applications for the web using mostly Vue.js, but also other frameworks like Aurelia.js, Backbone.js for the front-end side and node.js, SpringBoot for the back-end side. 
 I love what I do, every day there is something new and exciting to learn. I take care about experience, architecture, and code quality of the things I build.
@@ -24,8 +27,8 @@ I love to travel, learn new technologies, eat good food and dirnk red wine.
 ![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=flat-square-black&logo=nodedotjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%232c3e50?style=flat-square-black&logo=mongodb&logoColor=47A248)
   
-![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-squa-blackre&logo=java&logoColor=000000)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-%8FBC8F?style=flat-square-black&logo=springboot&logoColor=000000)
+![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-squa-blackre&logo=java&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-%8FBC8F?style=flat-square-black&logo=springboot&logoColor=ffffff)
   
 ![Salesforce](https://img.shields.io/badge/-Salesforce-C0098?style=flat-square-black&logo=salesforce&logoColor=ffffff&color=00A1E0)
 
