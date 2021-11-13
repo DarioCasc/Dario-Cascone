@@ -8,7 +8,7 @@
 I love what I do, every day there is something new and exciting to learn. I take care about experience, architecture, and code quality of the things I build.
 Following my passion for technology was one of the best decisions I ever made.
 Besides programming I love spending time with friends and family,
-I love to travel, learn new technologies, eat good food and dirnk red wine.
+I love to travel, learn new technologies, eat good food and drink red wine.
   </samp>
   <br> <br>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
