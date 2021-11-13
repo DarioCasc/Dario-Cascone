@@ -13,6 +13,7 @@ I love to travel, learn new technologies, eat good food and dirnk red wine.
   <br> <br>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p><samp><strong>My skills</strong></samp></p>
+  <br><br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square-black&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square-black&logo=css3)
