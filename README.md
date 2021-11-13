@@ -26,6 +26,8 @@ I love to travel, learn new technologies, eat good food and dirnk red wine.
   
 ![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-squa-blackre&logo=java&logoColor=000000)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-%8FBC8F?style=flat-square-black&logo=springboot&logoColor=000000)
+  
+![Salesforce](https://img.shields.io/badge/-Salesforce-C0098?style=flat-square-black&logo=salesforce&logoColor=ffffff&color=00A1E0)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square-black&logo=webpack)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square-black&logo=git&logoColor=%23ffffff)
@@ -33,11 +35,12 @@ I love to travel, learn new technologies, eat good food and dirnk red wine.
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square-black&logo=visual-studio-code)
 ![Webstorm](https://img.shields.io/badge/-Webstorm-i6969?style=flat-square-black&logo=webstorm&color=000000)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square-black&logo=eslint)
+![Heroku](https://img.shields.io/badge/-Heroku-C0098?style=flat-square-black&logo=heroku&logoColor=ffffff&color=430098)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square-black&logo=netlify&logoColor=ffffff)
  <br> <br>
-|      <samp><strong>Project</strong></samp> 🔥  |   Technologies 🧑‍💻 |
+|      <samp><strong>Project</strong></samp>💻   |   Technologies 🧑‍💻 |
 |-------------|-------------|
-| [**<samp><strong>subapp</strong></samp>**](https://www.subapp.it) | Vue.js, Quasar, node.js, express.js, mongoDB |
+| [**<samp><strong>subapp</strong></samp>**](https://www.subapp.it) | Vue.js, Quasar, Node.js, Express.js, MongoDB |
 | [**<samp><strong>ladimora</strong></samp>**](https://www.casadiriposoladimora.com) | Vue.js |
 
  <br>
