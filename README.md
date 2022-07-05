@@ -1,4 +1,4 @@
-<div align="left"><samp><strong>It's a real treat to see you here!</strong></samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></div>
+<div align="left"><samp><strong>It's a real treat to see you here!</strong></samp></div>
 <br>
 <a href="https://www.linkedin.com/in/dc3/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
